@@ -1,0 +1,8 @@
+dataset,acc_percent,nmi_percent,pur_percent
+BBCSport,96.32,89.18,96.32
+Caltech101-20,79.00,72.94,81.60
+Cora,68.72,47.72,69.76
+Scene-15,43.52,43.65,47.09
+MNIST-USPS,99.80,99.37,99.80
+ALOI-100,90.94,95.83,91.64
+NoisyMNIST,99.60,98.66,99.60

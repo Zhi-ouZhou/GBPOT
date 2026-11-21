@@ -1,0 +1,8 @@
+dataset,samples,clusters,views,feature_dimensions
+BBCSport,544,5,2,3183/3203
+Caltech101-20,2386,20,2,1984/512
+Cora,2708,7,2,2708/1433
+Scene-15,4485,15,3,20/59/40
+MNIST-USPS,5000,10,2,784/784
+ALOI-100,10800,100,4,77/13/64/125
+NoisyMNIST,50000,10,2,784/784
